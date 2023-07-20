@@ -19,11 +19,9 @@ export default function Navbar() {
       <div className="flex  md:flex-row justify-between items-center">
         <div className="flex flex-col">
           <Link href="/">
-            <h1 className="font-semibold text-xl dark:text-gray-100">
-              {userData.name}
-            </h1>
+            <img class="w-24 h-24 rounded-full mx-auto" src="/logo.png" alt="" width="100" height="150"/>
             <p className="text-base font-light text-gray-500 dark:text-gray-300">
-              {userData.designation}
+              {userData.Home}
             </p>
           </Link>
         </div>

@@ -1,0 +1,6 @@
+{
+    "compile-hero.disable-compile-files-on-did-save-code": false,
+    "eslint.quiet": true,
+    "files.autoSave": "off",
+    "javascript.format.insertSpaceAfterCommaDelimiter": false
+}
