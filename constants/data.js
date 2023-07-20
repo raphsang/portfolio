@@ -94,7 +94,7 @@ const userData = {
       desc: "B+ Marks 355/500",
     },
   ],
-  resumeUrl: "https://drive.google.com/file/d/12ChayXIjJSTMIf41lGRda0VSvpjKj312/view?usp=drivesdk",
+  resumeUrl: "https://drive.google.com/file/d/14O4fsJfje7-ePXIewsXHVOJvBIkCM8ij/view?usp=drivesdk",
   socialLinks: {
     instagram: "https://instagram.com/computersci3?igshid=ZDc4ODBmNjlmNQ==",
     twitter: "https://twitter.com/ruff_G",
