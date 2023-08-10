@@ -1,4 +1,4 @@
-import React from "react";
+youimport React from "react";
 import { RoughNotation, RoughNotationGroup } from "react-rough-notation";
 import { RainbowHighlight } from "./RainbowHighlight";
 import userData from "@constants/data";
@@ -11,7 +11,7 @@ export default function Hero() {
         <div class="pt-6 text-center space-y-4">
           <blockquote>
             <p class="text-lg font-medium">
-              highly skilled professional who specializes in designing, developing, and maintaining software systems.
+              Highly skilled professional who specializes in designing, developing, and maintaining software systems.
             </p>
           </blockquote>
           <figcaption class="font-medium">
