@@ -28,6 +28,11 @@ const userData = {
       link: "#",
       imgUrl: "/loan_prediction.png",
     },
+                 {
+      title: "Task Web App",
+      link: "#",
+      imgUrl: "/digital_clock.png",
+    },
     {
       title: "Digital clock",
       link: "#",
