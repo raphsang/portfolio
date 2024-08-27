@@ -34,11 +34,6 @@ const userData = {
       imgUrl: "/company task manager.png",
     },
     {
-      title: "Task Web App",
-      link: "#",
-      imgUrl: "/digital_clock.png",
-    },
-    {
       title: "Digital clock",
       link: "#",
       imgUrl: "/digital_clock.png",
