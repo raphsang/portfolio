@@ -31,7 +31,7 @@ const userData = {
     {
       title: "Simple Company Task Manager",
       link: "https://mockwebpage-raphsangs-projects.vercel.app/",
-      imgUrl: "/loan_prediction.png",
+      imgUrl: "/company task manager.png",
     },
     {
       title: "Task Web App",
