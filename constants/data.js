@@ -67,6 +67,7 @@ const userData = {
       year: "2024",
       companyLink: "#",
       desc: "Trained teachers on intergrating ICT on basic primary eductation.",
+  },
   {
       title: "Post industrial attache",
       company: "Kenya Revenue Authority",
