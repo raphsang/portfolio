@@ -19,7 +19,7 @@ export default function Hero() {
               Raphael Kipsang
             </div>
             <div class="text-slate-700 dark:text-slate-500">
-              Software Engineer, Kenya.
+              Software Engineer, Kenya
             </div>
           </figcaption>
         </div>
