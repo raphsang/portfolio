@@ -28,7 +28,12 @@ const userData = {
       link: "#",
       imgUrl: "/loan_prediction.png",
     },
-                 {
+    {
+      title: "Simple Company Task Manager",
+      link: "https://mockwebpage-raphsangs-projects.vercel.app/",
+      imgUrl: "/loan_prediction.png",
+    },
+    {
       title: "Task Web App",
       link: "#",
       imgUrl: "/digital_clock.png",
@@ -45,7 +50,7 @@ const userData = {
     },
   ],
   about: {
-    title: "I'm a skilled software engineer with a passion for creating efficient and reliable solutions. ",
+    title: "Skilled software engineer with a passion for creating efficient and reliable solutions. ",
     description: [
       `I have a strong passion for crafting efficient and scalable solutions. With a strong foundation in computer science and extensive industry experience, I consistently delivers high-quality code and drives successful project outcomes.`,
       `With expertise in various programming languages, frameworks, and technologies, I have a proven track record of designing and developing robust software applications. Their technical proficiency spans front-end and back-end development, including proficiency in languages such as JavaScript, Python, and Java.`,
@@ -57,6 +62,20 @@ const userData = {
     currentProjectUrl: "#",
   },
   experience: [{
+      title: "Intern",
+      company: "Kenya Public Service (DLP)",
+      year: "2024",
+      companyLink: "#",
+      desc: "Trained teachers on intergrating ICT on basic primary eductation.",
+  {
+      title: "Post industrial attache",
+      company: "Kenya Revenue Authority",
+      year: "2023",
+      companyLink: "#",
+      desc: "worked as ICT support officer.",
+  },
+
+{
       title: "Student attache",
       company: "Baringo County Gvt",
       year: "2022",
