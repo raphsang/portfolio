@@ -12,6 +12,7 @@ export default function Hero() {
           <blockquote>
             <p class="text-lg font-medium">
               Highly skilled professional who specializes in designing, developing, and maintaining software systems.
+              <p>Here is my blog page<a href="https://theg.vercel.app/">Blog</a> </p>
             </p>
           </blockquote>
           <figcaption class="font-medium">
